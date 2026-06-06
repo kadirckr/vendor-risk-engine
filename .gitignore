@@ -1,0 +1,20 @@
+## .NET build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+publish/
+
+## IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+## Serilog file sink output
+logs/
+
+## OS
+.DS_Store
+Thumbs.db
